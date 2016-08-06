@@ -1,7 +1,7 @@
 # Drawing tasks for my project
 
 <b>Описание</b><br>
-Вы можете рисовать это, можете сделать на компе. Может, вы знаете как оцифровывать рисунки, тогда расскажите [мне](ww.vk.com/misteraverin)
+Вы можете рисовать это, можете сделать на компе. Может, вы знаете как оцифровывать рисунки, тогда расскажите [мне](https://vk.com/misteraverin)
 
 
 <h2>Задание №1</h2>
@@ -45,7 +45,7 @@
 
 <b>Описание задачи</b><br>
 Нужно обыграть название проекта в стиле двух сайтов. Название - Upsolving master. Можно придумать своё(но не Upsolving king). Можно нарисовать коронку на букву U, можно обыграть pickup master(не знаю как). Мои пояснения и рисуночки внизу. 
-2 сайта - [codeforces.com](codeforces.com) и [https://apps.topcoder.com/wiki/](https://apps.topcoder.com/wiki/)
+2 сайта - [codeforces.com](https://codeforces.com) и [https://apps.topcoder.com/wiki/](https://apps.topcoder.com/wiki/)
 <b>Картиночки</b>
 
 ![](https://github.com/test-vogel/tasks/blob/master/task3/Topcoder.png)
