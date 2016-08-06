@@ -11,6 +11,18 @@
 <b>Описание задачи</b><br>
 Нужен логотип. Проект называется chooseme. На логотипе хочу видеть школьника, который тянет руку. Надо нарисовать в чёрно-белых тонах. Картиночки и идеи я приложил, но можно фантазировать. 
 
+<b>Картиночки</b><br>
+Можно погулить картиночки pupil raising his hand а также комиксы чёрно-белые типа simon's
+
+
+!(coding)[https://github.com/test-vogel/tasks/blob/master/task1/codinghorror.png]
+
+
+!(pupil)[https://github.com/test-vogel/tasks/blob/master/task1/rising_his_hand.jpg]
+
+
+!(simon's)[https://github.com/test-vogel/tasks/blob/master/task1/simons.png]
+
 <h2>Задание №2</h2>
 <b>Введение</b><br>
 Часто когда мы уезжаем домой, дома остаются цветы, которые надо поливать. Хочу сделать дектор уровня воды, чтоб отправлял данные на компьютер и потом посылал смс. Например sms соседке. 
