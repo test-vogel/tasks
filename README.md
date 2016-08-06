@@ -46,6 +46,7 @@
 <b>Описание задачи</b><br>
 Нужно обыграть название проекта в стиле двух сайтов. Название - Upsolving master. Можно придумать своё(но не Upsolving king). Можно нарисовать коронку на букву U, можно обыграть pickup master(не знаю как). Мои пояснения и рисуночки внизу. 
 2 сайта - [codeforces.com](https://codeforces.com) и [https://apps.topcoder.com/wiki/](https://apps.topcoder.com/wiki/)
+
 <b>Картиночки</b>
 
 ![](https://github.com/test-vogel/tasks/blob/master/task3/Topcoder.png)
