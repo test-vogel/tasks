@@ -15,13 +15,13 @@
 Можно погулить картиночки pupil raising his hand а также комиксы чёрно-белые типа simon's
 
 
-!(coding)[https://github.com/test-vogel/tasks/blob/master/task1/codinghorror.png]
+![coding](https://github.com/test-vogel/tasks/blob/master/task1/codinghorror.png)
 
 
-!(pupil)[https://github.com/test-vogel/tasks/blob/master/task1/rising_his_hand.jpg]
+![pupil](https://github.com/test-vogel/tasks/blob/master/task1/rising_his_hand.jpg)
 
 
-!(simon's)[https://github.com/test-vogel/tasks/blob/master/task1/simons.png]
+![simon's](https://github.com/test-vogel/tasks/blob/master/task1/simons.png)
 
 <h2>Задание №2</h2>
 <b>Введение</b><br>
